@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\desktop\\OrderingSystemV2\\orderingSystem.API\\OrderingSystem.API.csproj": {}
+    "C:\\HAHAHA\\htdocs\\realtime_product_ordering_system\\OrderingSystem.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\desktop\\OrderingSystemV2\\orderingSystem.API\\OrderingSystem.API.csproj": {
+    "C:\\HAHAHA\\htdocs\\realtime_product_ordering_system\\OrderingSystem.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\desktop\\OrderingSystemV2\\orderingSystem.API\\OrderingSystem.API.csproj",
+        "projectUniqueName": "C:\\HAHAHA\\htdocs\\realtime_product_ordering_system\\OrderingSystem.API.csproj",
         "projectName": "OrderingSystem.API",
-        "projectPath": "C:\\Users\\PC\\desktop\\OrderingSystemV2\\orderingSystem.API\\OrderingSystem.API.csproj",
+        "projectPath": "C:\\HAHAHA\\htdocs\\realtime_product_ordering_system\\OrderingSystem.API.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\desktop\\OrderingSystemV2\\orderingSystem.API\\obj\\",
+        "outputPath": "C:\\HAHAHA\\htdocs\\realtime_product_ordering_system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -157,3 +157,14 @@ C:\Users\PC\desktop\OrderingSystemV2\orderingSystem.API\obj\Debug\net9.0\compres
 C:\Users\PC\desktop\OrderingSystemV2\orderingSystem.API\obj\Debug\net9.0\compressed\g9luqnpl9c-5ipweew5fc.gz
 C:\Users\PC\desktop\OrderingSystemV2\orderingSystem.API\obj\Debug\net9.0\compressed\k39eiggr04-i8vpcnpjbq.gz
 C:\Users\PC\desktop\OrderingSystemV2\orderingSystem.API\obj\Debug\net9.0\compressed\qn48t4oeo5-aieiw5pqe3.gz
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.csproj.AssemblyReference.cache
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.AssemblyInfoInputs.cache
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.AssemblyInfo.cs
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.csproj.CoreCompileInputs.cache
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.sourcelink.json
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.dll
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\refint\OrderingSystem.API.dll
+C:\HAHAHA\htdocs\realtime_product_ordering_system\obj\Debug\net9.0\OrderingSystem.API.pdb

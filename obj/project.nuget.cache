@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lUpBYcj1oY=",
+  "dgSpecHash": "WeMYNz3PBWc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\desktop\\OrderingSystemV2\\orderingSystem.API\\OrderingSystem.API.csproj",
+  "projectFilePath": "C:\\HAHAHA\\htdocs\\realtime_product_ordering_system\\OrderingSystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
